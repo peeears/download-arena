@@ -1,0 +1,14 @@
+{
+  "name": "download-arena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junyi",
+  "license": "ISC",
+  "dependencies": {
+    "are.na": "^0.1.5"
+  }
+}
